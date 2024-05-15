@@ -1,0 +1,131 @@
+.jumbotron  {
+  color: white;
+  text-shadow: 1px 1px 2px black;
+  padding: 30px;
+  padding-bottom: 195px;
+  font-weight: bold;
+  background: #0000008a;
+}
+.display-4 {
+  color: white;
+  text-shadow: 1px 1px 2px black;
+}
+body {
+  background-image: url('https://source.unsplash.com/1600x900/?travel');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.reg {
+  color: white;
+  text-shadow: 1px 1px 2px black;
+  padding: 30px;
+  padding-bottom: 195px;
+  font-weight: bold;
+  background: #0000008a;
+}
+
+.reg label {
+  margin-bottom: 20px; 
+  font-size: 18px;
+}
+.reg p {
+  
+  margin-top: 0px;
+  padding-bottom: 0px; 
+}
+.reg .log {
+  
+  margin-top: 0px;
+  padding-bottom: 300px; 
+}
+
+.profile p {
+  color: white;
+  text-shadow: 1px 1px 2px black;
+  font-weight: bold;
+  padding: 40px;
+  margin-bottom: 0px; 
+  padding-bottom: 325px;
+  
+}
+.container_profile h2 {
+   text-align: center; 
+  
+}
+.table th {
+  color: #495057; 
+
+}
+#editProfileButton{
+  color: white;
+  font-weight: bold; 
+}
+#showResultsButton {
+  background-color: #4CAF50;
+  color: white;
+  padding: 6px 15px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.container_profile {
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 10px; 
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+  padding: 40px; 
+  max-width: 600px; 
+  margin: 50px auto; 
+}
+.logo {
+  width: 100px;
+  padding-left: 20px;
+}
+.survey {
+  background-color: rgba(255, 255, 255, 0.9); 
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 20px; 
+}
+.navbar {
+  
+    background: #464646;
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+
+}
+.navbar-nav .nav-link {
+  margin-right: 20px; 
+  font-size: 20px; 
+  color: white; 
+  font-weight: bold; 
+  margin-left: 20px;
+}
+.custom-jumbotron {
+  text-shadow: 1px 1px 2px black;
+  color: white;
+  border-radius: 0;
+  font-size: 20px;
+}
+
+
+.custom-jumbotron .hello {
+  font-weight: bold;
+  margin-top: 40px;
+}
+.custom-jumbotron .about {
+   margin-top: 40px;
+   font-size: 23px;
+   padding-bottom: 5px;
+}
+
+.navbar {
+  padding: 0; 
+}
